@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #add8e6; /* Lighter Shade of Sky Blue */
+}
+
+#top-right-info {
+    text-align: right;
+    margin: 20px;
+}
+
+#top-right-info .name {
+    color: #000; /* Black */
+    font-weight: bold;
+}
+
+#top-right-info .designation {
+    color: #000; /* Black */
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
